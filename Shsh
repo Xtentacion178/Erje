@@ -26,7 +26,7 @@ Background="Accent",
 BackgroundTransparency=0,
 Hover="Text",
 
-WindowBackground="Red",
+WindowBackground="Background",
 
 WindowShadow="Black",
 
@@ -107,14 +107,14 @@ ZIndexBehavior="Sibling",
 },
 CanvasGroup={
 BorderSizePixel=0,
-BackgroundColor3=Color3.new(1,1,1),
+BackgroundColor3=Color3.new(255,0,0),
 },
 Frame={
 BorderSizePixel=0,
-BackgroundColor3=Color3.new(1,1,1),
+BackgroundColor3=Color3.new(255,0,0),
 },
 TextLabel={
-BackgroundColor3=Color3.new(1,1,1),
+BackgroundColor3=Color3.new(0,0,0),
 BorderSizePixel=0,
 Text="",
 RichText=true,
